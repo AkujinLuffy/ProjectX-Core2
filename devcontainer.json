@@ -1,0 +1,14 @@
+{
+    "name": "basic configure",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mhutchie.git-graph",
+                "phi1294.git-log--graph"
+            ]
+        }
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli": {}
+    }
+}
